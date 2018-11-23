@@ -1,0 +1,190 @@
+﻿/*
+* @Author: jian.weng
+* @Date:   2018-09-12 14:30:25
+* @Last Modified by:   jian.weng
+* @Last Modified time: 2018-09-18 15:29:33
+*/
+.FunctionPagebanner{
+	position: relative;
+	 background:url(../images/6gongnengye banner .png);
+	 background-size:100% 100%;-moz-background-size:100% 100%;
+	width: 100%;
+	height: 29.6875vw !important;
+	font-family: PingFangSC-Regular;
+	font-size: 2.5vw!important;
+	color: #FFFFFF;
+}
+
+.bannerback{
+	position: absolute;
+	z-index: 99;
+	width: 100%;
+	height: 570px;
+	background: #333333;
+	opacity: 0.3;
+}
+.bannertext{
+	z-index: 999;
+	position: absolute;
+	left: 20%;
+	top: 454px;
+}
+
+.FunctionTitle{
+	margin-top: 105px;
+}
+
+.FunctionTitle ul{
+	margin-left: 10px;
+	margin-top: 52px;
+	overflow: hidden;
+}
+
+.FunctionTitle ul.header1 li{
+	float: left;
+	margin-right: 5.5vw;
+	overflow: hidden;
+	margin-bottom: 3.125vw;
+}
+
+.FunctionTitle ul.header2 li{
+	float: left;
+	margin-right: 4.8vw;
+	overflow: hidden;
+	margin-bottom: 60px;
+}
+
+.FunctionTitle ul.header3 li{
+	float: left;
+	margin-right: 5.8vw;
+	overflow: hidden;
+	margin-bottom: 1.7vw;
+}
+.noMargin{
+	margin-right: 0;
+}
+.functionPic{
+	float: left;
+	background-color: #F4F6F9;
+	width: 7.291667vw;
+	height: 7.291667vw;
+	margin-left: 2.469136vw;
+	border-radius: 50%;
+	text-align: center;
+}
+
+.functionPic img{
+	margin: 1.5625vw 0;
+	vertical-align:middle;
+	width: 4.6875vw;
+	height: 4.6875vw;
+}
+
+.functiontext{
+	float: left;
+	margin-left:20px; 
+}
+
+.functiontext div{
+	font-family: PingFangSC-Regular;
+	font-size: 1.875vw;
+	color: #333333;
+	margin-bottom: 0.520833vw;
+}
+
+.functiontext span{
+	font-family: PingFangSC-Regular;
+	font-size: 1.145833vw;
+	color: #666666;
+	width: 10.416667vw;
+	display: inline-block;
+	word-wrap: break-word;
+}
+
+.FunctionPageContent{
+	margin: 0 auto;
+	width: 86vw;
+	/*width: 1395px;*/
+}
+
+.headertexts{
+	font-family: PingFangSC-Regular;
+	font-size: 42px;
+	padding-left: 10px; 
+	border-left:5px solid #3396F8;
+	color: #333333;
+}
+
+
+
+.FunctionPageContent .topinterval{
+	margin-top: 43px;
+	margin-bottom: 52px;
+}
+
+.ContentTitle ul li.noMargin{
+	margin-right: 0;
+}
+
+.FunctionPageFooter{
+	margin-top: 116px;
+	position: relative;
+	width: 100%;
+	height: 37.5vw!important;
+	background:url(../images/banner/7gongnengye banner.png) no-repeat;
+	background-size: 100% 100%;
+}
+
+.FunctionPageFooterback{
+	position: absolute;
+	z-index: 99;
+	width: 100%;
+	height: 37.5vw!important;
+	background: #333333;
+	opacity: 0.3;
+}
+
+.FunctionPageFootertext1{
+	position: absolute;
+	left: 60.7vw!important;
+	top: 13.3333333vw!important;
+	width: 20vw!important;
+	font-family: PingFangSC-Regular;
+	font-size: 2.5vw!important;
+	color: #FFFFFF;
+	z-index: 999;
+}
+
+.FunctionPageFootertext2{
+	position: absolute;
+	left: 75.7%;
+	width: 5vw!important;
+	top: 17.76041vw!important;
+	font-family: PingFangSC-Regular;
+	font-size: 1.25vw!important;
+	color: #FFFFFF;
+	z-index: 999;
+}
+
+.FunctionPageFooterbtn{
+	cursor: pointer;
+	position: absolute;
+	z-index: 999;
+	left: 72.7vw!important;
+	top: 25.617vw!important;
+	height: 3.08642vw!important;
+	width: 8.0729vw!important;
+	line-height: 3.08642vw!important;
+	text-align: center;
+	background: #3396F8;
+	border-radius: 2px;
+	font-family: PingFangSC-Regular;
+	font-size: 0.9375vw!important;
+	color: #FFFFFF;
+}
+.Index_detail_show_small_pic_back{
+	background: #F4F6F9;
+	width: 110px;
+	height: 110px;
+	border-radius: 55px;
+}

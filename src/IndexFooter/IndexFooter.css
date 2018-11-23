@@ -1,0 +1,85 @@
+footer{	
+	width: 71.09375vw;
+	margin: 0 auto;
+	/*height: 21.40625vw;*/
+	overflow: hidden;
+	background-color: #FFFFFF;
+}
+
+.footerHeader{
+	width: 71.09375vw;
+	overflow: hidden;
+}
+.footerLeft{
+	float: left;
+	margin-top: 68px;
+	overflow: hidden;
+	width: 60vw;
+	height: 196px;
+	font-size:1.296vw;
+	color: #333333;
+	font-family: 'PingFangSC-Regula';
+	/*background-color: red	*/
+}
+
+.footerLeft ul li{
+	margin-top: 10px;
+	font-size: 0.833333vw;
+}
+.footerLeft ul{
+	margin-top:10px;
+	text-align: center;
+}
+.LeftOne {
+	float: left;
+	width: 6.5vw;
+	text-align: center;
+}
+.LeftTwo {
+	float: left;
+	margin-left: 10vw;
+	width:6.1667vw;
+	text-align: center;
+}
+.LeftThree {
+	margin-left: 10vw;
+	float: left;
+	width: 15.5vw;
+	text-align: center;
+}
+
+.LeftThree ul{
+	width: 26vw;
+	text-align: left;
+}
+
+.footerRight{
+	margin-top: 68px;
+	float: right;
+	width: 9.84375vw;
+	text-align: center;
+}
+
+.footerRight img{
+	width: 9.84375vw;
+	height:  9.84375vw;
+}
+
+.footerRight span{
+	margin-top: 9px;
+	font-family: PingFangSC-Regular;
+	font-size: 1.04177vw;
+	color: #333333;
+}
+
+.CopyText{
+	text-align: center;
+	padding-top: 21px;
+	margin: 0 auto;
+	margin-top: 51px;
+	width: 70.3645vw;
+	border-top:2px solid #EFEFEF;
+	font-family: PingFangSC-Regular;
+	font-size: 0.729167vw;
+	color: #9C9D9B;
+}

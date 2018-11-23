@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+/* KISSY CSS Reset */
+
+body, h1, h2, h3, h4, h5, h6, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea { margin: 0; padding: 0; }
+
+body, button, input, select, textarea, font { font-size: 12px; }
+
+body { font-family: Microsoft YaHei; height: auto !important; list-style: none; margin: 0; min-height: 100px; overflow: scroll; overflow-x: hidden; padding: 0; width: 100%; }
+
+h1, h2, h3, h4, h5, h6, button, input, select, textarea { font-size: 100%; }
+
+label, input, select { vertical-align: middle; }
+
+address, cite, em { font-style: normal; }
+
+fieldset { cursor: pointer; }
+
+img { border: none; }
+
+ul, ol { list-style: none; }
+
+table { border-collapse: collapse }
+
+sub { vertical-align: text-bottom; }
+
+sup { font: 11px/normal tahoma; left: 2px; position: relative; top: -1px; vertical-align: text-top; }
+
+small { font-size: 12px; }
+
+legend { color: #333; }
+
+/* color */
+
+/* default color */
+
+a { outline: none; text-decoration: none; }
+
+a:focus { outline: none; }
+
+a:link { outline: none; }
+
+a:active { outline: none; }
+
+a:visited { outline: none; }
+
+a:hover { outline: none; }
+
+/*a{ text-decoration: none; outline: none; blr:expression(this.onFocus=this.blur());*/
+
+ul, li { margin: 0; padding: 0; }

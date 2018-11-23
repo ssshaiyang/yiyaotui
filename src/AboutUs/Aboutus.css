@@ -1,0 +1,59 @@
+/*
+* @Author: jian.weng
+* @Date:   2018-09-11 19:05:12
+* @Last Modified by:   jian.weng
+* @Last Modified time: 2018-09-18 16:24:18
+*/
+
+.Aboutbackground{
+	min-width: 600px;
+}
+.Aboutbanner{
+	position: relative;
+	 background:url(../images/9guanyuwomen banner.png);
+	width: 100%;
+	height: 29.6875vw;
+	background-size: 100% 29.6875vw;
+	font-family: PingFangSC-Regular;
+	font-size: 2.5vw;
+	color: #FFFFFF;
+}
+
+.abouttext1{
+	left: 19vw;
+	top: 9.427vw;
+	position: absolute;
+}
+
+.abouttext2{
+	left: 19vw;
+	top: 15.26vw;
+	position: absolute;
+}
+
+.abouttext3{
+	width: 100%;
+	height:33.1vw; 
+	background-color: #F4F6F9;
+}
+
+.textheader{
+	padding-top: 9.6vw;
+	margin-bottom: 5.1vw;
+	font-family: PingFang-SC-Medium;
+	font-size: 2.1875vw;
+	color: #333333;
+	letter-spacing: 0;
+	text-align: center;
+}
+
+.textfooter{
+	text-indent:2em;
+	width: 100%;
+	margin: 0 auto;
+	font-family: PingFangSC-Regular;
+	font-size: 1.25vw;
+	color: #333333;
+	line-height: 50px;
+	margin-bottom: 50px;
+}

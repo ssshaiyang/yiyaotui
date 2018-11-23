@@ -1,0 +1,337 @@
+/*
+* @Author: jian.weng
+* @Date:   2018-09-11 19:05:12
+* @Last Modified by:   jian.weng
+* @Last Modified time: 2018-09-18 13:19:25
+*/
+
+.Cooperationbackground{
+	min-width: 900px;
+	margin:0 auto;
+}
+.Cooperationbanner{
+	position: relative;
+	 background:url(../images/banner/10hezuoye banner.png) no-repeat;
+	 background-size:100% 100%;-moz-background-size:100%;
+	width: 100%;
+	height: 29.6875vw;
+	font-family: PingFangSC-Regular;
+	font-size: 2.5vw;
+	color: #FFFFFF;
+}
+.Cooperationback{
+	position: absolute;
+	width: 100%;
+	height: 29.6875vw;
+	z-index: 99;
+	background-color:#333333;
+	opacity: 0.3;
+}
+
+.Cooperationbanner span{
+	position: absolute;
+	top: 10.185185vw;
+	left: 19vw;
+	z-index: 999;
+	width: 33.3333333vw;
+	font-family: PingFangSC-Regular;
+	font-size: 2.5vw;
+	color: #FFFFFF;
+	line-height: 5.2083333vw;
+}
+
+.titleText{
+	width: 50.4vw;
+	margin: 0 auto;
+	margin-top: 5.6vw;
+	font-family: PingFang-SC-Medium;
+	font-size: 2.08333vw;
+	color: #333333;
+	letter-spacing: 2.4px;
+	text-align: center;
+	margin-bottom: 5.8vw;
+}
+
+.iconleft{
+	margin-right: 3vw;
+}
+
+.iconleft img{
+	width: 2.4vw;
+	height:2.6vw;
+}
+
+.iconright{
+	margin-left: 3.1vw;
+}
+
+.iconright img{
+	width: 2.4vw;
+	height:2.6vw;
+}
+.stepicon {
+	width:8.854vw;
+	height: 8.854vw;
+	border-radius: 50%;
+	background: #FFFFFF;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.stepicon img{
+	margin-top: 1.5625vw;
+	width: 5.6777vw;
+	height: 5.6777vw;
+}
+
+.steptext{
+	font-family: PingFangSC-Regular;
+	font-size: 1.875vw;
+	color: #333333;
+	letter-spacing: -0.87px;
+	text-align: center;
+}
+
+.stepcontent {
+	width: 100%;
+	background: #F4F6F9;
+	height: 40vw;
+	margin: 0 auto;
+}
+
+.contentstep{
+	width: 8.854vw;
+}
+
+.stepul{
+	overflow: hidden;
+	display: flex;
+    justify-content: center;
+	margin: 0 auto;
+	padding-top: 5.8vw;
+}
+
+.stepul li{
+	float: left;
+}
+
+.Arrowicon{
+	line-height: 8.854vw;
+	margin-left: 32.4px;
+	margin-right: 43.1px;
+}
+
+.Arrowicon img{
+	padding-top:3.645833vw;
+	width: 1.197917vw
+}
+
+.moreproblem{
+	cursor: pointer;
+	font-family: PingFangSC-Regular;
+	font-size: 1.875vw;
+	color: #FFFFFF;
+	margin:0 auto;
+	margin-top: 9.2vw;
+	line-height: 5vw;
+	text-align: center;
+	width: 24vw;
+	height: 5vw;
+	background: #3396F8;
+	border-radius: 30px;
+}
+
+.moreproblem:hover{
+	background: #3396F8;
+	box-shadow: 0 4px 8px 0 #ADD2F7;
+	border-radius: 30px;
+}
+
+.support{
+	width: 100%;
+	margin: 0 auto;
+	height: 59vw;
+}
+
+.supporttitle{
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 103px;
+	margin-bottom: 75px;
+	font-family: PingFangSC-Regular;
+	font-size: 2.1875vw;
+	color: #151515;
+	line-height: 3.072917vw;
+}
+
+.supporttitle span{
+	color: #3396F8;
+}
+
+.liheader{
+	font-family: PingFangSC-Regular;
+	font-size: 1.875vw;
+	color: #333333;
+	margin-top: 1.614583vw;
+	margin-bottom: 10px;
+}
+
+.liheadercontent{
+	display: inline-block;
+	font-family: PingFangSC-Regular;
+	font-size: 1.25vw;
+	color: #666666;
+	text-align: justify;
+	line-height: 2.34375vw;
+	width: 14.58333vw;
+	margin-bottom: 2.395833vw;
+}
+
+.footercontent{
+
+}
+.supportli{
+	background: #FFFFFF;
+	box-shadow: 0 2px 4px 0 #CCCCCC;
+	width:20.83333vw;
+	text-align: center;
+	margin-right: 70px;
+}
+
+.supportli:hover{
+	box-shadow: 0 4px 8px 0 #ADD2F7;
+}
+.supportli img{
+	width: 20.8333vw;
+}
+
+.support ul{
+	margin: 0 auto;
+	overflow: hidden;
+	height: 33.8541vw;
+	display: flex;
+    justify-content: center;
+}
+
+.support ul li{
+	cursor: pointer;
+	float: left;
+	height: 33.75vw;
+}
+
+.leftbtnpicback{
+	margin-top: 13.760417vw;
+    margin-right: 20px;
+    width: 4.8vw;
+    height: 7.8125vw;
+    padding-left: 1vw;
+    padding-top: 1vw;
+    background: #fff;
+}
+
+.leftbtnpic{
+	width: 2.432292vw;
+	height: 5.765432vw;
+	background: url(../images/Cooperation/fuchizuojiantou.png);
+	background-size:100% 100%;-moz-background-size:100%
+}
+
+.leftbtnpicback:hover{
+	background: #EFEFEF;
+}
+
+.leftbtnpicback:hover .leftbtnpic{
+	width: 2.432292vw;
+	height: 5.765432vw;
+	background: url(../images/Cooperation/zuojiantou.png);
+	background-size:100% 100%;-moz-background-size:100%
+}
+
+.rightbtnpicback{
+	margin-top: 13.760417vw;
+    margin-left: 20px;
+    width: 4.8vw;
+    height: 7.8125vw;
+    padding-left: 1vw;
+    padding-top: 1vw;
+    background: #fff;
+}
+
+.rightbtnpic{
+	width: 2.432292vw;
+	height: 5.765432vw;
+	background: url(../images/Cooperation/youjiantou.png);
+	
+	background-size:100% 100%;-moz-background-size:100%
+}
+
+.rightbtnpicback:hover{
+	background: #EFEFEF;
+}
+
+.rightbtnpicback:hover .rightbtnpic{
+	width: 2.432292vw;
+	height: 5.765432vw;
+	background: url(../images/Cooperation/fuchiyoujiantou.png);
+	background-size:100% 100%;-moz-background-size:100%
+}
+
+.nomargin{
+	margin-right: 0;
+}
+
+/*底部样式*/
+.footertext{
+	width:20.57vw;
+	margin: 0 auto;
+	padding-top: 5.4vw;
+	margin-bottom: 5.4vw;
+	font-family: PingFangSC-Regular;
+	font-size: 2.1875vw;
+	color: #151515;
+	line-height: 3.54vw;
+}
+
+.Cooperationfooter{
+	width: 100%;
+	height: 23.8vw;
+	background: #F4F6F9;
+}
+
+.footertext span{
+	color: #3396F8;
+}
+
+/*底部输入框*/
+.footerbtn .ant-input-affix-wrapper .ant-input{
+	margin-left: 0;
+	min-height: 0;
+	width: 39.0625vw;
+	height: 3.125vw;
+	background: #FFFFFF;
+	box-shadow: 0 2px 4px 0 #ADD2F7;
+	border-radius: 5.208333vw;
+}
+
+.footerbtn .ant-input-affix-wrapper{
+	width: 39.0625vw;
+}
+.footerbtn .ant-input{
+	width:39.0625vw;
+}
+
+.footerbtn .ant-btn-primary{
+	width:8.33333vw;
+	height: 2.9166667vw;
+	background: #3396F8;
+	cursor: pointer;
+}
+
+.footerbtn .ant-input-search > .ant-input-suffix > .ant-input-search-button{
+	border-radius: 67px;
+}
+
+.footerbtn{
+	width: 39.0625vw;
+	margin: 0 auto;
+}

@@ -1,0 +1,202 @@
+/*
+* @Author: jian.weng
+* @Date:   2018-09-12 14:30:25
+* @Last Modified by:   jian.weng
+* @Last Modified time: 2018-09-18 15:33:37
+*/
+.CasePagebackground{
+	min-width: 600px;
+}
+
+.Casepagebanner{
+	position: relative;
+	 background:url(../images/6gongnengye banner .png);
+	 background-size:100% 100%;-moz-background-size:100% 100%;
+	width: 100%;
+	height: 29.6875vw !important;
+	font-family: PingFangSC-Regular;
+	font-size: 2.5vw!important;
+	color: #FFFFFF;
+}
+
+.bannerback{
+	position: absolute;
+	z-index: 99;
+	width: 100%;
+	height: 29.6875vw!important;
+	background: #333333;
+	opacity: 0.3;
+}
+.bannertext{
+	z-index: 999;
+	position: absolute;
+	left: 33.8vw!important;
+	top: 23.64583vw!important;
+}
+
+.ContentTitle{
+	margin-top: 4.8vw;
+}
+
+.ContentTitle ul{
+	position: relative;
+	margin-left: 10px;
+	margin-top: 2.4vw;
+	width: 86vw;
+	overflow: hidden;
+}
+.ContentTitle ul li{
+	cursor: pointer;
+	position: relative;
+	float: left;
+	margin-right: 50px;
+	width: 15.625vw;
+	margin-bottom: 4.8vw;
+}
+
+.ContentTitle ul li div{
+	text-align: center;
+	font-family: PingFangSC-Regular;
+	font-size: 1.875vw;
+	color: #333333;
+}
+
+.CasePageContent{
+	margin:0 auto;
+	width: 72.65625vw;
+	height:130.57vw!important;
+}
+
+.headertexts{
+	font-family: PingFangSC-Regular;
+	font-size: 2.1875vw!important;
+	padding-left: 10px; 
+	border-left:5px solid #3396F8;
+	color: #333333;
+}
+
+.companypic1{
+	width: 15.625vw;
+	height: 12.5vw;
+	 background:url(../images/company/anli1.png);
+	 background-size: 100% 100%;
+}
+
+.companypic2{
+	width: 15.625vw;
+	height: 12.5vw;
+	 background:url(../images/company/anli.png);
+	 background-size: 100% 100%;
+}
+
+.CasePageContent .topinterval{
+	margin-top: 2vw;
+	margin-bottom: 2.4vw;
+}
+
+.ContentTitle ul li.noMargin{
+	margin-right: 0;
+}
+
+.CasePageFooter{
+	margin-top: 5.4vw;
+	position: relative;
+	width: 100%;
+	height: 37.5vw!important;
+	background:url(../images/banner/7gongnengye banner.png) no-repeat;
+	background-size: 100% 100%;
+}
+
+.CasePageFooterback{
+	position: absolute;
+	z-index: 99;
+	width: 100%;
+	height: 37.5vw!important;
+	background: #333333;
+	opacity: 0.3;
+}
+
+.CaseFootertext1{
+	position: absolute;
+	left: 60.7vw!important;
+	top: 13.3333333vw!important;
+	width: 20vw!important;
+	font-family: PingFangSC-Regular;
+	font-size: 2.5vw!important;
+	color: #FFFFFF;
+	z-index: 999;
+}
+
+.CaseFootertext2{
+	position: absolute;
+	left: 75.7%;
+	width: 5vw!important;
+	top: 17.76041vw!important;
+	font-family: PingFangSC-Regular;
+	font-size: 1.25vw!important;
+	color: #FFFFFF;
+	z-index: 999;
+}
+
+.CaseFooterbtn{
+	cursor: pointer;
+	position: absolute;
+	z-index: 999;
+	left: 72.7vw!important;
+	top: 25.617vw!important;
+	height: 3.08642vw!important;
+	width: 8.0729vw!important;
+	line-height: 3.08642vw!important;
+	text-align: center;
+	background: #3396F8;
+	border-radius: 2px;
+	font-family: PingFangSC-Regular;
+	font-size: 0.9375vw!important;
+	color: #FFFFFF;
+}
+
+.companypicback {
+	top: 0;
+	z-index: 999;
+	display: none;
+	width: 15.625vw;
+    height: 12.5vw;
+    position: absolute;
+    background: #333333;
+    opacity: 0.5;
+}
+
+.companypiccontent {
+	width: 15.625vw;
+    height: 12.5vw;
+    display: none;
+	z-index: 9999;
+	 position: absolute;
+	 top: 0;
+}
+.companypiccontent img{
+	left: 2.6vw;
+    width: 10.6vw;
+    height: 9.6vw;
+    z-index: 444;
+    position: absolute
+}
+
+.companypiccontent span{
+	display: inline-block;
+    position: absolute;
+    font-family: PingFangSC-Regular;
+    bottom: 0.6vw;
+    left: 4.2vw;
+    z-index: 444;
+    font-size: 1.8vw;
+    color: #FFFFFF;	
+}
+
+.ContentTitle ul li:hover .companypicback{
+	display: block;
+}
+
+.ContentTitle ul li:hover .companypiccontent{
+	display: block;
+}

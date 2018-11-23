@@ -1,0 +1,161 @@
+/*
+* @Author: jian.weng
+* @Date:   2018-09-11 19:05:12
+* @Last Modified by:   jian.weng
+* @Last Modified time: 2018-09-18 16:18:12
+*/
+.IndexCustomizedBack{
+	min-width: 800px;
+	position: relative;
+}
+
+.IndexCustomizedbanner{
+	position: relative;
+	 background:url(../images/9guanyuwomen banner.png);
+	width: 100%;
+	height: 29.6875vw;
+	background-size: 100% 100%;
+	font-family: PingFangSC-Regular;
+	font-size: 2.5vw;
+	color: #FFFFFF;
+}
+
+.IndexCustomizedtext1{
+	left: 19%;
+	top: 9.427vw;
+	position: absolute;
+}
+
+.IndexCustomizedtext2{
+	left: 19%;
+	top: 14.739vw;
+	position: absolute;
+}
+
+.IndexCustomizedtext3{
+	width: 100%;
+	height:33.1vw; 
+	background-color: #F4F6F9;
+}
+
+.IndexCustomizedheader{
+	padding-top: 9.6vw;
+	margin-bottom: 5.1vw;
+	font-family: PingFang-SC-Medium;
+	font-size: 2.1875vw;
+	color: #333333;
+	letter-spacing: 0;
+	text-align: center;
+}
+
+.IndexCustomizedfooter{
+	text-indent:2em;
+	width: 100%;
+	margin: 0 auto;
+	font-family: PingFangSC-Regular;
+	font-size: 1.25vw;
+	color: #333333;
+	line-height: 50px;
+}
+
+
+.ant-modal-close{
+	display: none;
+}
+
+.ant-modal-content{
+	width: 40vw;
+    padding: 4vw;
+	/*height: 51.4vw;*/
+	z-index: 555;
+	background: #FFFFFF;
+	border-radius: 2px;
+	opacity: 1;
+}
+
+.Cform{
+	top: 12.8vw;
+	left:34.4vw;
+	position: absolute;
+	width: 31.3vw;
+	height: 51.4vw;
+	z-index: 555;
+	/*background: #FFFFFF;*/
+	border-radius: 2px;
+	opacity: 1;
+}
+
+.Cform{
+	text-align: center;
+}
+
+.Cformheader{
+	display: inline-block;
+    font-family: PingFang-SC-Medium;
+    font-size: 1.5vw;
+    color: #3396F8;
+    margin-bottom: 3vw;
+}
+
+
+.Cform .ant-input{
+	height: 40px;
+}
+
+.Cform .ant-input-affix-wrapper .ant-input:not(:first-child){
+	padding-left: 4vw;
+
+}
+
+.Cform .ant-input-affix-wrapper{
+	width:20vw;
+}
+
+.Customizedfooterbtn{
+	margin-top: 27px;
+}
+
+.Cform .Submissionbtn{
+	width: 9vw;
+    height: 3vw;
+    text-align: center;
+    margin-right: 1vw;
+    background: #3396F8;
+    border-radius: 2px;
+    font-family: PingFangSC-Regular;
+    font-size: 1.5vw;
+    color: #FFFFFF;
+}
+
+.Cform .cancelbtn{
+	background: #FFFFFF;
+	width: 9vw;
+    height: 3vw;
+    text-align: center;
+	border: 1px solid #CCCCCC;
+	border-radius: 2px;
+	font-family: PingFangSC-Regular;
+	 font-size: 1.5vw;
+	color: #CCCCCC;
+}
+ 
+.Cform .ant-form-item-control .ant-form-item-children{
+	width:31.4vw;
+	overflow: hidden;
+}
+
+.Cform .ant-input-affix-wrapper .ant-input-prefix img{
+	margin-left: 0;
+}
+
+
+.Customizedfooter{
+	    margin-top: 2vw;
+    font-family: PingFang-SC-Regular;
+    font-size: 1.4vw;
+    color: #CCCCCC;
+}
+
+.Customizedfooterbtn .ant-btn{
+	padding: 0
+}
